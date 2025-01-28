@@ -1,0 +1,7 @@
+numpy
+streamlit
+#torch 
+#torchvision 
+#torchaudio
+pillow
+tensorflow-tensorboard

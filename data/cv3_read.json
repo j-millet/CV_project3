@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zeta-bonfire-449115-c9",
+  "private_key_id": "b649e5fd9db71e6a611641baa19f3787115890b2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4HeWhT3cgc6BU\nsRPAVOAXU1P2v33Mz5A0VEFtEmkuwdVUYlk8gsPGJg/IcjHdY8+NowtDgLkrqgz3\naYgkUflOSwNIvDRdum4BBs+wG7f9KyvkpEmi9lJ/LIpNLKV70kc2GWDtMcG3bx6g\nijOw6kgHD9CrUYoAyUMyf/XDslycz6ftnk1jbSAs+m6lFAVxIDSsdOZ39A58wWHS\n0981T2fGNK0IzPEAmO0nUw+zF/fgjoaoS+wG6cYUVY8UHcX23bcRhhmxAK62TFZQ\nOMDZHh2mgSyZjwF9TUBB7K5/AaB1EvbqGCI7iC8qVascRYzHH8q9W6SE8N7Pl/J/\niJsrcaNvAgMBAAECggEARf/T4Jb6RyO+xsRGKp76TdP3/b2DIh2eCU8pSsMvqz+1\nkC4OGFPtA8ZPxNkpvS6n6AUfkKv9eqzd3ijIwmpKGyqo1nv7etEY5poE10NKmd3S\ng8y0VFlLNx+je0Dor6FcQqS2daevq0J7hfTVP0NrXAf2wVOwYKkkO6xrr1n+HP2v\nEZvo8a2zkOjnapAtW3JHJRcdx53vYKok02Lr2Wfz5mEABbF9Ioo819QC1JtIKAB/\nnH1RvvD5Ap2df9y0ZTZ80rEgCGDxaVSIZX8flPLmM91XpHaVkmoKcjZ/pJ1TSqBQ\n0h3wyaNTX34sVDL6LDpQdxJgwvwkvQtONlajlGOkBQKBgQDdLBHwo/q6moSia+02\n3IPyVwGy9iYprVxRpQ0iwYmi3ffLELso3aYhh43IPK3/dyT+aAxhjV49hbquomqH\nk3IgtpHW1d7by6S5IRRTJHoOv0fIT1VxZT7Zi/ZBggpDaWvTQO8TftYBzHZbNoeT\ns5w1vu+ASlKFDrHW0tsq1NTXwwKBgQDVHAtwi6hdgCA9e4XQeuCBXOlfYZD/ezJQ\nNUI0j45rFJ+3rY4L2A4bEc/YO0oLnI5ike4DBUn2lsRCr/iADrhSGJUk9SrgsmIE\nwlzeo+I2DQCcVUxZXirCf7mdEM5pN0gbiNReCzIc5hlX4HKaFTrdEcAB4NJvF2Hp\nNfLzVzi25QKBgQCVy7pe1IEFj4/TfeuM46+OG/Wvot1YDu1e8r3B03kH0PR6GVvZ\nor1ZKjkR7F8gji6FDC2OiLPSUVeN3bzvFCMRGvYNno6xKOzo4gmlAiiVAmJ4vZqu\nEZeOuifQWGXhIG6CBxGlj5scXsGup3ENzXE4SZhmuG/JZJl4WRlNmhaKBwKBgQCw\ny0hOQP4XO3EDsJLtxtKzX0IYJ9fjqu+tjNF0y1eKTBzIg4nhF4d0O42jRGSER4f0\nDD5ZcSzQDnmZHWVZz1xodw5cD6xXpoUcj6X96hWDY7wK9dSWG0H8A3wX6lZjAUKn\n3RbZQg573QRPW9uXKl+gANa6eCn7kXlfwKrh540cZQKBgErmSSAgZ4EwWRrmrTTc\njhRcxnqxnZbwz00yfE1jI2YqbSMgXC7wk1rkMqRY7paZl3kEz+sg+boAxjbZ36Ql\n3Snq9nQeB8o/qzmLAaauxljfPy+9jNyf3mqLlhWNQQUQ6vM+LsvvJPX+1MBneCaP\n8Nw52jEwdimrebuprVnyMhP9\n-----END PRIVATE KEY-----\n",
+  "client_email": "bucket-readonly@zeta-bonfire-449115-c9.iam.gserviceaccount.com",
+  "client_id": "106760153469443159572",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bucket-readonly%40zeta-bonfire-449115-c9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
