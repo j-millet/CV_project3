@@ -1,4 +1,0 @@
-[core]
-    remote = gcp_bucket
-['remote "gcp_bucket"']
-    url = gs://cv3-put
