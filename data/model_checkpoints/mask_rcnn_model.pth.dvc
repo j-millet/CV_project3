@@ -1,0 +1,5 @@
+outs:
+- md5: 2499a073b689ab69a468c749d2f43a23
+  size: 176421188
+  hash: md5
+  path: mask_rcnn_model.pth
