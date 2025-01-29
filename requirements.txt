@@ -1,0 +1,5 @@
+numpy
+streamlit
+pillow
+tensorboard
+#Not included: torch torchvision etc. as they are included in the docker image

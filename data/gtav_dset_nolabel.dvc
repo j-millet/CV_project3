@@ -1,0 +1,6 @@
+outs:
+- md5: e025f7bec23d94b0bbe6c352f7de0407.dir
+  size: 380367599
+  nfiles: 600
+  hash: md5
+  path: gtav_dset_nolabel

@@ -1,0 +1,6 @@
+__pycache__
+data/camera
+data/gtFine
+data/leftImg8bit
+data/archives
+*.json
